@@ -130,18 +130,10 @@ header ul li a:hover {
 .overmij span{
     font-size: 70px;
     position: relative;
-    display: inline-block;
-    background: rgba(240, 147, 179, 0.4);  
+    display: inline-block; 
     padding: 3px;                                    
 }
 
-.overmij .tekstselecteren {
-    width: 10.4%;
-    margin-top: 4.6rem;
-    margin-left: 17rem;
-    position: absolute; 
-    z-index: 20;
-}
 
 .overmij p{
     color: var(--tekstkleur-wit);
@@ -198,17 +190,9 @@ header ul li a:hover {
     font-size: 70px;
     position: relative;
     display: inline-block;
-    background: rgba(240, 147, 179, 0.4);  
-    padding: 3px;                                    
+             
 }
 
-.werktrots .tekstselecteren{
-    width: 8.5%;
-    margin-left: 13.6rem;
-    margin-top: 4.4rem;
-    position: absolute; 
-    z-index: 20;
-}
 
 .pijltjehome{
     width: 7%;
